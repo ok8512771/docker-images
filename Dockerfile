@@ -1,1 +1,1 @@
-From docker.io/coollabsio/coolify
+From docker.io/halohub/halo:1.5.5
